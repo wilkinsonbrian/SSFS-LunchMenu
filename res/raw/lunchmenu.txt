@@ -1,0 +1,101 @@
+November 26:Spaghetti with Marinara,Vegetable Maranara,Garlic Bread,Spinach,Brownies
+November 27:Grilled Chicken Caeser,Bandito Beans,Breadsticks,Brown Rice,Ginger Snaps
+November 29:Chicken Patty Cordon Blue,White Bean & Tomato Salad,Rice,Pinto Bean Soup,Golden Grahams Bars
+November 30:Breakfast for Lunch,Waffle Sticks,Scrambled Eggs,Hashbrowns,Oranges/Yogurt
+December 3:Grilled Cheese,Tater Tots,Tomato Soup,Split Pea Soup,Fruit Cocktail
+December 4:Chipolte BBQ Chicken,Macaroni & Cheese,Broccoli Succotash,Gourmet Cookies
+December 5:Hot Meatball Sandwich,Eggplant Parmesan,Sweet Potato Fries,Grilled Ratatouille,Carnival Cookies
+December 6:Pizza,Pepperoni,Cheese/Veggie,Vegetables w/ Dip,Oreo Pudding Cup
+December 7:Sesame Pork Ginger Stir Fry,Rice,Eggplant,Garbanzos,Chicken Corn Chowder,Rice Krispies Bars
+December 10:Cheese Ravioli,Garlic Bread,Italian Blend,Black Bean Soup,Jell-O with Fruit
+December 11:Sizzling Turkey Salad,Corn Bread,Brownies
+December 12:Jerk Chicken,Marinated Portobellos,Yellow Rice,Cuban Black Beans,Pears
+December 13:Baked Potato Bar,Beef Chili,Broccoli,Vegetarian Chili,Strawberry Jell-O
+December 14:Hamburgers,Veggie Burgers,Oven Fries,Mixed Vegetables,Oreo Pudding Cup
+December 17:Simple Meal,Red Beans,Rice,Tossed Salad,Sliced Apples
+December 18:Tacos, Rice, Refried Beans, Chips and Cheese, Churros
+December 19:TBA
+December 20:Chef's Choice,Chef's Choice Vegan,Vegetable Medley,Chef's Choice Soup,Assorted Cookies
+December 21:Roast Beef,Mashed Potatoes,Green Beans,Roll w/ Butter,Pies
+January 7:Simple Meal,Red Beans,Rice,Tossed Salad,Sliced Apples
+January 8:Chicken Patty Parmesan,Curried Tofu,Rice Pilaf,Fire Roasted Corn Soup,Vanilla Pudding Cup
+January 9:Hamburgers,Spicy Vegetable Pita,Oven Fries,Clam Chowder,Gingersnaps
+January 10:SW Chipotle Ranch,Chicken Salad,Eggplant Parmesan,Breadsticks,Cinnamon Brownies
+January 11:Beef Stroganoff,Vegan Stroganoff,Egg Noodles,Brussel Sprouts,Chocolate Chip Cookie
+January 14:Grilled Cheese,Vegetarian Chili,Yellow Rice,Potato Leek Soup,Rice Krispies Treats
+January 15:KC BBQ Pulled Pork Sandwich,Macaroni & Cheese,Baked Beans,Cherry Jell-O Parfait
+January 16:Chicken Pad Thai,Tofu Egg Pad Thai,Rice,Green Beans,Fortune Cookies
+January 17:Meatball Sandwich,Borracho Beans with Rice,Corn Chips,Ratatouille,Snickerdoodles
+January 18:Tacos,Aztec Corn,Spanish Rice,Chicken Tortilla Soup,Churros
+January 22:Sloppy Joes,Vegetarian Quiche,Tater Tots,Italian Medley,Spice Cake
+January 23:Grilled Chicken Caesar Salad,Grilled Vegetable Wrap,Breadsticks,Chocolate Chip Cookies
+January 24:Seafood Jambalaya,Veggie Jambalaya,Garlic Bread,Broccoli,Banana Pudding
+January 25:Curried Chicken,Rice,Clam Chowder,Swirl Brownies
+January 29:Pizza Pepperoni or Cheese,Vegetable Crudites,Chicken Wild Rice Soup,Sugar Cookies
+January 30:Baked Potato Bar,Baked Fish,Chili,Vegetarian Chili,Strawberry Jell-O
+January 31:Pork Rib or Veggie Riblet Sandwich,Macaroni & Cheese,Vegetable Medley,Chocolate Cake
+February 1:Chicken Parmesan,Eggplant parmesan,Garlic Bread,Corn Chowder,Vanilla Cake Pudding Cup
+February 25:Simple Meal,Red Beans,Rice,Tossed Salad,Apple Slices
+February 26:Pizza,Pepperoni,Cheese,Vegetable,Graham Cereal Bars
+February 27:Chicken Nuggets,Four Cheese Pasta,Oven Fries,Baby Carrots,Spice Cake
+February 28:Hot Dogs,Butternut Squash w/Lentils,Corn Chips,Baked Beans,Jell-O with fruit
+March 1:Baked Potato Bar,Baked Fish,Chili,Broccoli,Granola Bar
+March 4:Baked Ziti,Garlic Bread,Split Pea Soup,Italian Vegetable Medley,Chocolate Cake
+March 5:Hot Dogs,Butternut Squash w/Lentils,Corn Chips,Baked Beans,Butter Toffee Cookies
+March 6:Teriyaki Chicken,Vegan Tofu Teriyaki,Sticky Rice,Chicken Corn Chowder,Fortune Cookies
+March 7:Hamburgers,Gardenburgers,Oven Fries,Brussel Sprouts,Brownies
+March 8:Sizzling Chicken Caesar Salad,Corn Bread,Black Bean Soup,Peach Cobbler
+March 11:Cheese Ravioli,Vegetarian Chili,Vegetable Medley,Garlic Bread,Rice Krispies Treats
+March 12:Roast Beef,Mashed Potatoes,Green Beans,Roll w Butter,Pudding Cake Parfait
+March 13:Chicken Pad Thai,Tofu Pad Thai,Beef Noodle Soup,Green Beans,Jell-O
+March 14:Spaghetti,Meatballs,Cheese Ravioli,Breadsticks,Pineapple
+March 15:Chicken Patty,Chicken Caesar Salad,Garlic Bread,Black Bean Soup,Peach Cobbler
+March 18:Grilled Cheese,Tomato Soup,Potato Chips,Broccoli,Pears
+March 19:Breakfast for Lunch,Eggs,Waffles,Sausage,Grapefruit
+March 20:Pizza,Pepperoni,Cheese,Vegetable,Grapes
+March 21:Taco Day,Bean Burritos,Aztec Corn,Mexican Rice,Churros
+March 22:Chef's Choice,Vegetarian Option,Starch or Equivalent,Chef's Choice,Vegetable,Chef's Choice
+April 1:Simple Meal,Red Beans,Rice,Bread,Apple Slices
+April 2:Grilled Chicken Caesar Salad,Bread Sticks,Black Bean Soup,Gourmet Cookies
+April 3:Beef with Broccoli Stir Fry,Asian Rice,Tofu Veggie Stir Fry,Fortune Cookies
+April 4:Chicken Jambalaya,Vegetable Paella,French Bread,Beef Barley Soup,Peach Cobbler
+April 5:Baked Fish,Baked Potato Bar,Peas,Chicken Wild Rice Soup,Spice Cake
+April 8:Baked Ziti,Garlic Bread,Pinto Bean Soup,Squash Medley,Sugar Cookies
+April 9:French Dip Sandwich,Veggie Cacciatore,Tator Tots,Peas,Brownies
+April 10:SW Chicken Salad,Chipotle Ranch,Vegan Pepper Burrito,Cream of Potato Soup,Granola Bar
+April 11:Hard Shell Tacos,Bean Tacos,Aztec Corn,Spanish Rice,Jell-0 with Fruit
+April 12:Hot Dogs,Eggplant Parmesan,Sauerkraut,Chili,Chocolate Cake
+April 15:Cheese Ravioli,Breadsticks,Three Bean Soup,Roasted Eggplant,Lemon Bars
+April 16:Super Sub Sandwiches,Turkey Ham Cheese,Chips,Chicken Noodle Soup,Rice Krispies Treats
+April 17:Shrimp Pad Thai,Tofu Veggie Pad Thai,Jasmine Rice,Cauliflower Medley,Fortune Cookies
+April 18:Pizza,Cheese Veggie,Celery & Carrots w/Dip,Vegetable Soup,Jell-O with Fruit
+April 19:Spaghetti,Meatballs or Marinara,Broccoli,Chicken Tortilla Soup,Brownies
+May 1:Chicken & Broccoli,Stir Fry,Asian Rice,Tofu Veggie Stir Fry,Fortune Cookies
+May 2:Sloppy Joes,Black Eyed Peas,Oven Fries,Corn,Ginger Snaps
+May 3:Breakfast for Lunch,French Toast Sticks,Eggs,Hashbrowns,Grapefruit
+May 6:Cheese Tortellini,Broccoli Cheddar Quiche,Carrots,Sugar Cookies
+May 8:Chicken Nuggets,Eggplant Parmesan,Oven Baked Fries,Pasta E Fagioli Soup,Cake
+May 9:Hot Dogs,Roasted Veggie Pita,Baked Beans,Veggie Chili,Vanilla Pudding
+May 10:Sizzling Chicken,Caesar Salad,Bread Sticks,Black Bean Soup,Carnival Cookies
+May 14:Chili Mac,Mac &  Tomatoes,Roasted Vegetables,Split Pea with Ham,Pears
+May 16:Baked Potato Bar,Black Bean Chili,Broccoli,Spicy Pork Soup,Brownies
+May 17:Hamburgers,Veggie Burgers,Potato Salad,Clam Chowder,Carrot Cake
+May 20:Simple Meal,Red Beans,Rice,Bread,Apple Slices
+May 21:Meatballs Subs,Provolone Cheese,Vegetable Medley,Clam Chowder,Choc. Pudding
+May 22:Baked Tilapia,Baked Potato,Bar of Potato Topping,Texas Beef Chili,Yellow Cake
+May 23:Pepperoni Pizza,Cheese Pizza,Vegetable Crudites,SW Chili,Oatmeal Cookies
+May 24:Carolina Pulled Pork,Macaroni & Cheese,Collard Greens,Turkey Noodle Soup,Peach Cobbler
+May 28:Mandarin Ginger Steak Salad,Garlic Bread,Vegan Chili,Strawberries
+September 3:Grilled Asian Steak,Steak Salad,Bread Sticks,Black Bean Soup,Gourmet Cookies
+September 4:Pizza-Veggie or Pepperoni,Vegetable Crudite
+September 5:Chicken Jambalaya,Vegetable Paella,French Bread,Beef Barley Soup,Peach Cobbler
+September 6:Hot Dogs,Eggplant parmesan,Sauerkraut,Chicken Wild Rice Soup,Yellow Cake
+September 9:Baked Ziti,Garlic Bread,Pinto Bean Soup,Squash Medley,Sugar Cookies
+September 10:French Dip Sandwich,Veggie Cacciatore,Tator Tots,Peas,Brownies
+September 11:SW Chicken Salad,Chipotle Ranch,Vegan Pepper Burrito,Cream of Potato Soup,Granola Bar
+September 12:Hamburgers,Veggie Burgers,Oven Fries,Split Pea Soup,Spice Cake
+September 13:Baked Fish,Baked Potato Bar,Toppings,Veggie Chili,Beef Chili,Lemon Bars
+September 16:Simple Meal,Red Beans,Rice,Bread,Apple Slices
+September 17:BBQ Pork Riblet Sandwich,Corn,Baked Beans,Banana Pudding
+September 18:Shrimp Pad Thai,Tofu Veggie Pad Thai,Jasmine Rice,Cauliflower Medley,Fortune Cookies
+September 19:Pizza,Celery & Carrots w/Dip,Vegetable Soup,Jell-O with Fruit

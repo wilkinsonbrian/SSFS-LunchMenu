@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/my_shape">
+    
+    <TextView 
+        android:id="@+id/widget_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10sp"
+        android:textSize="18sp" 
+        android:text="@string/widget_lunch"/>
+    
+    <TextView 
+        android:id="@+id/widget_lunch_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20sp"
+        android:textSize="16sp"
+        android:layout_below="@id/widget_date" />
+    
+
+</RelativeLayout>

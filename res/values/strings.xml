@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SSFS Lunch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="todays_lunch">&quot;Lunch for &quot;</string>
+    <string name="pick_date">Choose Date</string>
+    <string name="widget_lunch">&quot;Today's Lunch:&quot;</string>
+    <string name="logo">SSFS Tressle Logo</string>
+
+</resources>
